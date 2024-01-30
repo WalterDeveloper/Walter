@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Walter Mogajan</h1>
+<h1 align="center">Hi 👋, I'm Walter Mogajana</h1>
 <h3 align="center">A passionate frontend and backend developer(PHP,Wp,Laravel) from South Africa</h3>
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on as a Wordpress & Laravel Dev.
 
-- 🌱 I’m currently learning **React, Vue Js**
+- 🌱 I’m currently learning **Laravel, Vue Js**
 
 - 📝 I regularly write articles on [https://codeceil.com/](https://codeceil.com/)
 
